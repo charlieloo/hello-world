@@ -1,2 +1,3 @@
 # hello-world
-A simple first timer
+This is a simple first timer attempt for someone like me
+who hasn't seriously coded for nearly the last 5 years.
